@@ -1,5 +1,7 @@
 # About 菲码源库
 
+<a href="#"><img src="./assets/images/feicode_banner.webp" alt="菲码源库" width="100%" height="auto"></a>
+
 ## 为什么创建菲码源库？
 
 随着开源Web生态的蓬勃发展，中文开发者长期面临以下痛点：
